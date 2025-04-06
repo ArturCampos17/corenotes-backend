@@ -1,0 +1,14 @@
+# Ignorar dependências do Node.js
+/node_modules/
+
+# Ignorar arquivos de ambiente
+.env
+.env.local
+
+# Ignorar arquivos de build
+/dist/
+/build/
+
+# Ignorar logs e outros arquivos temporários
+*.log
+*.tmp
